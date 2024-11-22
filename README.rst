@@ -1,4 +1,4 @@
 Umbraco-CMS
 ======
 
-**Umbraco-CMS** is a cms.
+**Umbraco-CMS** is a cms that is awesome.
