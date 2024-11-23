@@ -2,6 +2,7 @@
 # It is possible to specify requirements as plain names.
 sphinx
 sphinx-rtd-theme
+sphinx-book-theme
 #pytest
 #pytest-cov
 #beautifulsoup4
