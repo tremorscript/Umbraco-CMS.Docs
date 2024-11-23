@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "UmbracoCMS Dev Docs"
+project = "Umbraco CMS"
 copyright = "2024, tremorscript"
 author = "tremorscript"
-release = "0.1"
+release = ""
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -23,7 +23,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "sphinx_rtd_theme"
+html_theme = "sphinx_book_theme"
 html_static_path = ["_static"]
 
 highlight_language = "csharp"
