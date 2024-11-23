@@ -20,3 +20,8 @@ To use Umbraco-CMS, first install it using pip:
     Console.Writeline("Test");
   }
 
+.. toctree::
+  :maxdepth: 2
+  :caption: Contents1:
+
+  test2
